@@ -1,1 +1,1 @@
-*/2 * * * * root perl /users/sailas/test.pl
+*/2 * * * * root perl /users/sailas/test.pl >> /var/log/cron.log 2>&1
