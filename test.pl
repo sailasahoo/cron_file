@@ -1,0 +1,1 @@
+print "Testing cron in every 2 mins- cron file runs at ".`date`."\n";
